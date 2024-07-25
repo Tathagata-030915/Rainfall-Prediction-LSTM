@@ -45,3 +45,12 @@ This project aims to develop a rainfall prediction model for the Darjeeling dist
 
 * Explore other deep learning architectures (e.g., GRU, CNN-LSTM) for potential enhancements.
 * Develop a web application or API for real-time rainfall predictions.
+
+### Setbacks 
+
+* There's a risk of overfitting, especially when the model is trained on a limited dataset, which might not generalize well to unseen data.
+* The model's performance is highly dependent on the 	quality of data preprocessing, which can be time-	consuming and requires careful handling.
+* The model's predictions are heavily dependent on historical data, which may not always accurately predict future rain conditions due to unforeseen events​
+
+
+
